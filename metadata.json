@@ -1,0 +1,6 @@
+{
+  "name": "Achabox",
+  "description": "Achabox - Achou, Comprou, Amou! Portal de achadinhos e promoções das melhores lojas como Shopee, Amazon e Mercado Livre.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
